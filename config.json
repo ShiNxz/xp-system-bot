@@ -1,0 +1,42 @@
+{
+    "token": "bot-token",
+    "PREFIX": "!",
+    "serverid": "your server id",
+    "Version": "1.0",
+
+    "host": "host",
+    "user": "user",
+    "password": "password",
+    "database": "database",
+
+    "level1": 50,
+    "level2": 100,
+    "level3": 170,
+    "level4": 250,
+    "level5": 350,
+    "level6": 500,
+    "level7": 670,
+    "level8": 800,
+    "level9": 1000,
+    "level10": 1300,
+    
+    "level1RoleID": "779507082339680284",
+    "level2RoleID": "779507322598326292",
+    "level3RoleID": "779507435182358568",
+    "level4RoleID": "779507639267753986",
+    "level5RoleID": "779508364119375902",
+    "level6RoleID": "779508503206166528",
+    "level7RoleID": "779508588837994547",
+    "level8RoleID": "797846301223288842",
+    "level9RoleID": "797846454923558943",
+    "level10RoleID": "797846546313510923",
+
+    "minXP": 5, 
+    "maxXP": 10,
+
+    "footerText": "XP System by ShiNxz#0001",
+    "footerIcon": "https://i.imgur.com/1ngHSV2.png",
+
+    "primaryColor": "#FF8000",
+    "closeReactionID": "772329978598785034"
+}

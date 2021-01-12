@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "(index.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "ShiNxz",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "gamedig": "^2.0.20",
+    "jimp": "^0.13.0",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "quick.hook": "^1.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
