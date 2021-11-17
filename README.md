@@ -10,6 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <h3 align="center">Discord XP System Bot</h3>
+  <h4>Please note that i wrote the bot 1 year ago (2020) and its outdated & bad syntax!</h4>
 
   <p align="center">
     XP System for your own private server
